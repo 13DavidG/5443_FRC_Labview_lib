@@ -1,0 +1,10 @@
+************************************************************************
+			     17 FEB 2019
+************************************************************************
+
+-Added go to motor (beta)
+-Improved motor control&solenoid 1button (block set ups and defaults)
+-Added motor limitter (Release)
+-Added motor slower (beta)
+-Added version numbers (Format: [Main Version].[Test/Small Changes version])
+-Deprecated unused old VIs
